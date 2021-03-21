@@ -1,0 +1,7 @@
+patientName:a  s  m  a	
+ Phone:33	
+ E_mail:r	
+ City:v	
+ Sex:f	
+ Identity_No:2222	
+ age:20
